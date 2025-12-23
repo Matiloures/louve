@@ -2098,6 +2098,16 @@ input, select, textarea {
 		color: #666;
 		line-height: 2em;
 	}	
+		.CustomIso {
+		display: inline-block;
+		width: 4em;
+		height: 4em;
+		font-size: 4.5em;
+		/*border-radius: 100%;
+		/*box-shadow: inset 0 0 0 1px #666;
+		/*color: #666;
+		/*line-height: 0em;*/
+	}	
 
 	.feature-icon {
 		display: inline-block;
